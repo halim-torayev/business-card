@@ -1,14 +1,14 @@
-# Business Card Web Page
+#  Business Card Web Page
 
 A simple, personal business‑card style web page built with HTML and CSS — clean and easily deployable.
 
-## Overview
+##  Overview
 
 - A minimal “business card” webpage showing your name, information, and personal branding.
 - Pure HTML & CSS — no frameworks or JavaScript required.
 - Very easy to modify and deploy 
 
-## Project Structure
+##  Project Structure
 
 ```
 business-card/
@@ -18,7 +18,7 @@ business-card/
 └── .gitignore    — ignored files for git
 ```
 
-## How to Use / Run
+##  How to Use / Run
 
 1. Clone the repository:
    ```bash
@@ -28,18 +28,18 @@ business-card/
 
 No setup, installations, or dependencies — works instantly.
 
-## Deployment (Optional)
+##  Deployment (Optional)
 
 You can easily publish this page online:
 
-### GitHub Pages
+###  GitHub Pages
 1. Go to repository **Settings → Pages**
 2. Select **Branch: main → /root**
 3. Save  
 Your business card will be live at:  
 `https://halim-torayev.github.io/business-card/`
 
-## Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
